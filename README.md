@@ -1,2 +1,2 @@
 # HoloearthHunter
-HoloearthHunter by RikkoMatsumatoOfficial
+WIP!!!(Internal Cheeto with Bypassing Detection Injector)
